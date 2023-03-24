@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 import {useState} from "react";
 import Typical from 'react-typical'
-import { BsLinkedin, BsGithub, BsMedium } from "react-icons/bs";
+import { BsLinkedin, BsGithub, BsMedium, BsFillSendFill } from "react-icons/bs";
 import { FaNpm } from "react-icons/fa";
 
 
@@ -100,8 +100,8 @@ export default function Home() {
       </main>
         <input type="checkbox" id="my-modal-4" className="modal-toggle" />
         <label htmlFor="my-modal-4" className="modal cursor-pointer">
-            <label className="modal-box relative p-10" htmlFor="">
-                <div className="form-control p-2">
+            <label className="modal-box relative p-5" htmlFor="">
+                <div className="form-control mb-20">
                     <div className="input-group mb-5">
                         <input type="text" placeholder="Ask me about Karl" className="input input-bordered w-full" onChange={(e)=>{
                             setMessage({message: e.target.value})
@@ -116,14 +116,14 @@ export default function Home() {
 
                         <button className="btn btn-square" onClick={ () => onClick(message.message)
                         }>
-                            <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg>
+                            <BsFillSendFill/>
                         </button>
                     </div>
                     { !isFetching ? <Typical
                         steps={[ chat as string , 1000 ] }
                     />  : 'Loading...' }
                 </div>
-
+                <p className="text-center"> <Link href="https://drive.google.com/file/d/14rK9PVq1py4-fnIyTsZ3dTZ_kXufESxf/view?usp=sharing" className="link">Download Resume</Link></p>
             </label>
 
         </label>
