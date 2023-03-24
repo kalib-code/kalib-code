@@ -5,6 +5,7 @@ Roxas City, Capiz 5800
 
 - 📞 Phone: +63 9951783112
 - 📧 Email: [karl@alibuas.com](mailto:karl@alibuas.com)
+- 🌐 Website: [alibuas.com](https://www.alibuas.com/)
 - 💻 Github: [kalib-code](https://github.com/kalib-code)
 - 🌟 Linkedin: [kalibuas](https://www.linkedin.com/in/kalibuas/)
 - 📝 Blog: [kalib-stacks](https://medium.com/@kalib-stacks)
@@ -128,7 +129,7 @@ Leading and planning volunteers for church tasks and creating relevant events th
 
 ## Education 🎓
 - North Eastern College / AB Political Science\
-  OCTOBER 2013 - MARCH 2014, Santiago, Isabela
+  OCTOBER 2013 - MARCH 2014 (Under-Graduate), Santiago, Isabela
 
 - Berean School of Ministries / Church Planting\
   JUNE 2010 - MARCH 2011, Roxas City Capiz
