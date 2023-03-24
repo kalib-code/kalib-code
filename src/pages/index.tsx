@@ -22,7 +22,7 @@ export default function Home() {
     const onClick = async ( message:string) => {
         // fetch post
         setIsFetching(true)
-        const chatData = await fetch('http://localhost:3000/api/chat', {
+        const chatData = await fetch('/api/chat', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
