@@ -9,7 +9,12 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+
+    },
+  },
+  daisyui: {
+    themes: ['lofi'],
   },
   plugins: [require("daisyui")],
 }
