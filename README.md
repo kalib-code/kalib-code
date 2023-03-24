@@ -1,38 +1,140 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Karl Kenneth Alibuas 🌐
+New Road Banica Mendoza Subdivision\
+Roxas City, Capiz 5800
 
-First, run the development server:
+- 📞 Phone: +63 9951783112
+- 📧 Email: [karl@alibuas.com](mailto:karl@alibuas.com)
+- 💻 Github: [kalib-code](https://github.com/kalib-code)
+- 🌟 Linkedin: [kalibuas](https://www.linkedin.com/in/kalibuas/)
+- 📝 Blog: [kalib-stacks](https://medium.com/@kalib-stacks)
+- 📦 NPM: [marculosus](https://www.npmjs.com/~marculosus)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Skills 🛠️
+### Programming Languages
+- Javascript
+- HTML
+- CSS
+- PHP
+- MYSQL
+- NoSQL
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Frameworks / Technologies
+#### Front-end
+- React.js
+- Next.js
+- Material-UI
+- Tailwind
+- Ant-Design
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+#### Libraries
+- Prisma.js
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+#### Back-end
+- Node.js
+- Express.js
+- Koa.js
+- Micro-Services
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+#### Services
+- AWS Web services
+- Azure
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+#### CI/CD
+- Github
 
-## Learn More
+#### Collaboration Tools
+- Jira
+- Azure
 
-To learn more about Next.js, take a look at the following resources:
+### Certifications 🏆
+- Lean Sigma Yellow Belt Class 76
+- Growth Driven Design
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Experience 🚀
+### ERNI Betterask.erni/PH / Professional Web Developer (Full-stack)
+AUG 2021 - Present, Mandaluyong Philippines\
+As a full-stack web developer at ERNI, I have been responsible for building and maintaining backend applications for various projects. My focus has been on writing efficient, high-quality code that improves the speed of the applications we develop.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+#### Projects
+##### Singlife Senior NODE JS Typescript Engineer
+FinTech and Insurance, May 2022 - Present, BGC Philippines\
+In this role, I am responsible for creating and maintaining serverless applications (AWS) for the company's products. I have also developed tools and services using AWS and serverless technology.
 
-## Deploy on Vercel
+###### Projects
+- Adhock Anti-Money Laundering declaration notification email (Lead) 🔒
+- 3n1 Protection Plan product (Lead) 🛡️
+- Cash Back Promo (Lead) 💰
+- Application Data Capture (Product Manager) 📋
+- Recurring Payments and Notification (Lead Dev & Product Manager) 💳
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+##### HERMA Project
+Shipping yard company\
+For this project, I developed a REST API backend application that caters to both mobile and web applications. 🚢
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+##### AVA Project
+Responsible for IoT data integration for the frontend using React. 🤖
+
+##### ThomsonMedical
+Implemented new backend features for generating document reports and integrated them with existing services. 🏥
+
+##### ERNI Development Day
+Participated in ERNI Development Day twice, presenting on the following topics:
+- Nocode and LowCode and their importance 💡
+- Building better software with REFINE.dev (active contributor) 🚀
+
+### Metro City AI / Senior Engineer (Consultant - Freelance)
+Productivity Tool for HR using Artificial Intelligence\
+Sept 2022 - Feb 2023, Makati Philippines\
+I designed and implemented a full-stack video on demand application using Next.js and AWS web services. This project involved creating a proof-of-concept for the product. 🤖🎥
+
+### UPDATE PROMISE / Fullstack Designer / Web Developer (Freelance)
+AUG 2021\
+For Update Promise, a US-based on-demand digital solution for payments, my job was to design and create a new website design for their digital campaigns using WordPress.
+
+### Mcdonald Delivery System Call Solution (MDS-CSI) / Junior Web Developer
+JUNE 2020 - AUG 2021, Makati Philippines\
+I designed and developed an online ordering website for restaurants using WordPress as a front-end and developed custom plugins for API integration with the company Order management System. 🍔🌐
+
+Planned and Implemented their API Structures on WordPress to Order management system which resulted in fewer API calls that save resources on the browsers and fully utilized WordPress Functions. 🛠️
+
+Help planned to migrate order management system from igniter to a Serverless application and have it implemented as a SaaS application for future products. ☁️
+
+### Servio.ph / Customer Success Manager
+JANUARY 2020 - JUNE 2020, Eastwood Quezon City\
+Designed Information Architecture gathering for Product Offerings and Designed Service Implementation Workflow on Web development Projects. 🌟
+
+Help Create aggressive Marketing materials and marketing Strategies with the Marketing department. 📣
+
+Handle Client communication and projects. 🤝
+
+Product research and Developing Product offerings. 🔍
+
+Help Train and develop aspiring students as a result 40 of my students have a job offer after the training. 🎓
+
+### Servio.ph / System Implementation Specialist
+JANUARY 2019 - JANUARY 2020, Roxas City Capiz\
+Create and Implement Solutions for small businesses on digital transformation for digital marketing. 💼
+
+### Tech Pastor / Destiny City Church (FARMinc)
+JANUARY 2018 - JANUARY 2019, Roxas City Capiz\
+Design digital people experience and helping build digital presence for prospects both online and offline. And build digital tools for churches. ⛪️💻
+
+### Senior Pastor / First Assemble Metro Evangel
+MARCH 2014- 2018 Santiago, Isabela\
+After serving 1 year as an assistant pastor In San Juan Ilocos Sur, I was assigned to serve as a senior pastor at a church in Santiago City. 🙏
+
+Leading and planning volunteers for church tasks and creating relevant events that can help with their growth within the church. 🌱
+
+## Education 🎓
+- North Eastern College / AB Political Science\
+  OCTOBER 2013 - MARCH 2014, Santiago, Isabela
+
+- Berean School of Ministries / Church Planting\
+  JUNE 2010 - MARCH 2011, Roxas City Capiz
+
+- Colegio De la Purísima Concepción\
+  JUNE 2009 - MARCH 2010, Roxas City Capiz
+
+- Tanque National High School\
+  JUNE 2006 - JUNE 2009, Roxas City Capiz
