@@ -18,7 +18,6 @@ export default async function handler(
 
     const api = new ChatGPTAPI({
         apiKey: process.env.OPENAI_API_KEY || '',
-        debug: true,
         completionParams: {
             temperature: 0.7,
             top_p: 1,
