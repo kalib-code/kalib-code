@@ -51,7 +51,7 @@ export default function Home() {
     return (
         <>
             <Head>
-                <title>Karl Kenneth Alibuas - Full Stack Developer & Tech Pastor</title>
+                <title>Karl Kenneth Alibuas - Full Stack Developer</title>
                 <meta name="description"
                       content="Explore the professional journey of Karl Kenneth Alibuas, a skilled full-stack developer with expertise in JavaScript, HTML, CSS, PHP, MySQL, and NoSQL. Discover his experience in tech, including web development projects, software engineering, and his unique role as a Tech Pastor."/>
                 <meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -59,19 +59,17 @@ export default function Home() {
             </Head>
             <main className="container mx-auto">
                 <Header/>
-                <div className="flex flex-col items-center justify-center min-h-screen py-2">
-                    <h1 className="text-6xl font-bold">
-                        <span className="text-orange-500">.</span>Alibuas
-                    </h1>
-                    <p className="mt-3 text-2xl text-center w-1/2">
-                        As a full-stack developer with a design background, I create custom digital solutions that are
-                        both visually appealing and highly functional. Let&apos;s work together to bring your digital
-                        dreams to life!
-                    </p>
-                    <label onClick={() => {
-                        onClickModal()
-                    }} htmlFor="my-modal-4" className="btn mt-5 px-10 py-3"> <span className="text-orange-500">.</span>
-                        ask me</label>
+                <div className="hero min-h-screen bg-base-100">
+                    <div className="hero-content text-center">
+                        <div className="max-w-md">
+                            <h1 className="text-5xl font-bold"><span className="text-orange-500">.</span>Alibuas</h1>
+                            <p className="py-6">  As a full-stack developer with a design background, I create custom digital solutions that are
+                                both visually appealing and highly functional. Let&apos;s work together to bring your digital
+                                dreams to life!</p>
+                            <label htmlFor="my-modal-4" className="btn btn-primary"> <span className="text-orange-500">.</span>
+                                ask Kalib</label>
+                        </div>
+                    </div>
                 </div>
                 <Footer/>
             </main>
