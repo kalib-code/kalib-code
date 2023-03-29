@@ -40,7 +40,7 @@ export default async function handler(
 
         });
 
-        logger.log(`${new Date().toISOString()} - ${message} - ${chatMes.data}`)
+        logger.log(`${new Date().toISOString()} - ${message} - ${JSON.stringify(chatMes.data)}`)
         return res.status(200).json({message: chatMes.data})
 
 
