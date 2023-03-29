@@ -1,0 +1,259 @@
+{
+  "name": "Karl Kenneth Alibuas",
+  "emoji": "🌐",
+  "address": {
+    "street": "New Road Banica Mendoza Subdivision",
+    "city": "Roxas City",
+    "state": "Capiz",
+    "postal_code": "5800"
+  },
+  "contacts": {
+    "phone": "+63 9951783112",
+    "email": "karl@alibuas.com",
+    "website": "https://www.alibuas.com/",
+    "github": "https://github.com/kalib-code",
+    "linkedin": "https://www.linkedin.com/in/kalibuas/",
+    "blog": "https://medium.com/@kalib-stacks",
+    "npm": "https://www.npmjs.com/~marculosus"
+  },
+  "skills": {
+    "programming_languages": [
+      "Javascript",
+      "HTML",
+      "CSS",
+      "PHP",
+      "MYSQL",
+      "NoSQL"
+    ],
+    "frameworks_technologies": {
+      "front_end": [
+        "React.js",
+        "Next.js",
+        "Material-UI",
+        "Tailwind",
+        "Ant-Design"
+      ],
+      "libraries": [
+        "Prisma.js"
+      ],
+      "back_end": [
+        "Node.js",
+        "Express.js",
+        "Koa.js",
+        "Micro-Services"
+      ],
+      "services": [
+        "AWS Web services",
+        "Azure"
+      ],
+      "ci_cd": [
+        "Github"
+      ],
+      "collaboration_tools": [
+        "Jira",
+        "Azure"
+      ]
+    },
+    "certifications": [
+      "Lean Sigma Yellow Belt Class 76",
+      "Growth Driven Design"
+    ]
+  },
+  "experience": [
+    {
+      "company": "ERNI Betterask.erni/PH",
+      "position": "Professional Web Developer (Full-stack)",
+      "start_date": "AUG 2021",
+      "location": "Mandaluyong, Philippines",
+      "description": "As a full-stack web developer at ERNI, I have been responsible for building and maintaining backend applications for various projects. My focus has been on writing efficient, high-quality code that improves the speed of the applications we develop.",
+      "projects": [
+        {
+          "name": "Singlife Senior NODE JS Typescript Engineer",
+          "industry": "FinTech and Insurance",
+          "start_date": "May 2022",
+          "location": "BGC, Philippines",
+          "description": "In this role, I am responsible for creating and maintaining serverless applications (AWS) for the company's products. I have also developed tools and services using AWS and serverless technology.",
+          "sub_projects": [
+            {
+              "name": "Adhock Anti-Money Laundering declaration notification email (Lead)",
+              "emoji": "🔒"
+            },
+            {
+              "name": "3n1 Protection Plan product (Lead)",
+              "emoji": "🛡️"
+            },
+            {
+              "name": "Cash Back Promo (Lead)",
+              "emoji": "💰"
+            },
+            {
+              "name": "Application Data Capture (Product Manager)",
+              "emoji": "📋"
+            },
+            {
+              "name": "Recurring Payments and Notification (Lead Dev & Product Manager)",
+              "emoji": "💳"
+            }
+          ]
+        },
+        {
+          "name": "HERMA Project",
+          "industry": "Shipping yard company",
+          "description": "For this project, I developed a REST API",
+          "backend_application": "that caters to both mobile and web applications.",
+          "emoji": "🚢"
+        },
+        {
+          "name": "AVA Project",
+          "description": "Responsible for IoT data integration for the frontend using React.",
+          "emoji": "🤖"
+        },
+        {
+          "name": "ThomsonMedical",
+          "description": "Implemented new backend features for generating document reports and integrated them with existing services.",
+          "emoji": "🏥"
+        },
+        {
+          "name": "ERNI Development Day",
+          "participation_count": 2,
+          "topics": [
+            {
+              "name": "Nocode and LowCode and their importance",
+              "emoji": "💡"
+            },
+            {
+              "name": "Building better software with REFINE.dev (active contributor)",
+              "emoji": "🚀"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Metro City AI",
+      "position": "Senior Engineer (Consultant - Freelance)",
+      "project": "Productivity Tool for HR using Artificial Intelligence",
+      "start_date": "Sept 2022",
+      "end_date": "Feb 2023",
+      "location": "Makati, Philippines",
+      "description": "I designed and implemented a full-stack video on demand application using Next.js and AWS web services. This project involved creating a proof-of-concept for the product.",
+      "emoji": "🤖🎥"
+    },
+    {
+      "company": "UPDATE PROMISE",
+      "position": "Fullstack Designer / Web Developer (Freelance)",
+      "start_date": "AUG 2021",
+      "description": "For Update Promise, a US-based on-demand digital solution for payments, my job was to design and create a new website design for their digital campaigns using WordPress."
+    },
+    {
+      "company": "Mcdonald Delivery System Call Solution (MDS-CSI)",
+      "position": "Junior Web Developer",
+      "start_date": "JUNE 2020",
+      "end_date": "AUG 2021",
+      "location": "Makati, Philippines",
+      "description": "I designed and developed an online ordering website for restaurants using WordPress as a front-end and developed custom plugins for API integration with the company Order management System.",
+      "emoji": "🍔🌐",
+      "achievements": [
+        {
+          "description": "Planned and Implemented their API Structures on WordPress to Order management system which resulted in fewer API calls that save resources on the browsers and fully utilized WordPress Functions.",
+          "emoji": "🛠️"
+        },
+        {
+          "description": "Help planned to migrate order management system from igniter to a Serverless application and have it implemented as a SaaS application for future products.",
+          "emoji": "☁️"
+        }
+      ]
+    },
+    {
+      "company": "Servio.ph",
+      "position": "Customer Success Manager",
+      "start_date": "JANUARY 2020",
+      "end_date": "JUNE 2020",
+      "location": "Eastwood Quezon City",
+      "responsibilities": [
+        {
+          "description": "Designed Information Architecture gathering for Product Offerings and Designed Service Implementation Workflow on Web development Projects.",
+          "emoji": "🌟"
+        },
+        {
+          "description": "Help Create aggressive Marketing materials and marketing Strategies with the Marketing department.",
+          "emoji": "📣"
+        },
+        {
+          "description": "Handle Client communication and projects.",
+          "emoji": "🤝"    },
+        {
+          "description": "Product research and Developing Product offerings.",
+          "emoji": "🔍"
+        },
+        {
+          "description": "Help Train and develop aspiring students as a result 40 of my students have a job offer after the training.",
+          "emoji": "🎓"
+        }
+      ]
+    },
+    {
+      "company": "Servio.ph",
+      "position": "System Implementation Specialist",
+      "start_date": "JANUARY 2019",
+      "end_date": "JANUARY 2020",
+      "location": "Roxas City Capiz",
+      "description": "Create and Implement Solutions for small businesses on digital transformation for digital marketing.",
+      "emoji": "💼"
+    },
+    {
+      "company": "Tech Pastor",
+      "organization": "Destiny City Church (FARMinc)",
+      "start_date": "JANUARY 2018",
+      "end_date": "JANUARY 2019",
+      "location": "Roxas City Capiz",
+      "description": "Design digital people experience and helping build digital presence for prospects both online and offline. And build digital tools for churches.",
+      "emoji": "⛪️💻"
+    },
+    {
+      "company": "Senior Pastor",
+      "organization": "First Assemble Metro Evangel",
+      "start_date": "MARCH 2014",
+      "end_date": "2018",
+      "location": "Santiago, Isabela",
+      "description": "After serving 1 year as an assistant pastor In San Juan Ilocos Sur, I was assigned to serve as a senior pastor at a church in Santiago City.",
+      "emoji": "🙏",
+      "responsibilities": [
+        {
+          "description": "Leading and planning volunteers for church tasks and creating relevant events that can help with their growth within the church.",
+          "emoji": "🌱"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "North Eastern College",
+      "degree": "AB Political Science",
+      "start_date": "OCTOBER 2013",
+      "end_date": "MARCH 2014",
+      "status": "Under-Graduate",
+      "location": "Santiago, Isabela"
+    },
+    {
+      "institution": "Berean School of Ministries",
+      "degree": "Church Planting",
+      "start_date": "JUNE 2010",
+      "end_date": "MARCH 2011",
+      "location": "Roxas City Capiz"
+    },
+    {
+      "institution": "Colegio De la Purísima Concepción",
+      "start_date": "JUNE 2009",
+      "end_date": "MARCH 2010",
+      "location": "Roxas City Capiz"
+    },
+    {
+      "institution": "Tanque National High School",
+      "start_date": "JUNE 2006",
+      "end_date": "JUNE 2009",
+      "location": "Roxas City Capiz"
+    }
+  ]
+}
+

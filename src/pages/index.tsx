@@ -14,6 +14,7 @@ export default function Home() {
     const [chat, setChat] = useState<string | null>(null);
     const [isFetching, setIsFetching] = useState<boolean>(false);
     const [isOpen, setIsOpen] = useState<boolean>(false);
+    const [messageParentId, setMessageParentId] = useState<string | null>(null);
 
     const onClick = async (message: string) => {
         setIsFetching(true)
@@ -25,7 +26,7 @@ export default function Home() {
 
                 },
                 body: JSON.stringify({
-                    parentMessageId: null,
+                    parentMessageId: messageParentId ? messageParentId : null,
                     message
                 }),
             })
@@ -34,6 +35,7 @@ export default function Home() {
             if (data) {
                 setIsFetching(false)
                 setChat(data.text)
+                setMessageParentId(data.parentMessageId)
             }
 
         } catch (e) {

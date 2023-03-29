@@ -24,6 +24,8 @@ export const Modal = (props: Props) => {
         onClickModal()
     }
 
+
+
     // get all the link in a string and put in a array
     // const getLink = (str: string) => {
     //     const regex = /https?:\/\/[^\s]+/g;
@@ -52,10 +54,6 @@ export const Modal = (props: Props) => {
     //     )
     // })
 
-
-
-    // @ts-ignore
-    // @ts-ignore
     return (
         <>
             <input onChange={onChangeToggle} defaultChecked={isOpen} type="checkbox" id="my-modal-4"
