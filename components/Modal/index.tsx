@@ -99,7 +99,7 @@ export const Modal = (props: Props) => {
 
                     {/*</div>*/}
                     <p className="text-center"><Link
-                        href="https://drive.google.com/file/d/14rK9PVq1py4-fnIyTsZ3dTZ_kXufESxf/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1nwKypNkc8mRadrACedHsC_JqLJiyRa4T/view?usp=sharing"
                         className="link">Download Resume</Link></p>
                 </label>
 
