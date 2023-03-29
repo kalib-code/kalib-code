@@ -14,7 +14,7 @@ export default function Home() {
     const [chat, setChat] = useState<string | null>(null);
     const [isFetching, setIsFetching] = useState<boolean>(false);
     const [isOpen, setIsOpen] = useState<boolean>(false);
-    const [messageParentId, setMessageParentId] = useState<string | null>(null);
+
 
     const onClick = async (message: string) => {
         setIsFetching(true)
@@ -26,16 +26,13 @@ export default function Home() {
 
                 },
                 body: JSON.stringify({
-                    parentMessageId: messageParentId ? messageParentId : null,
                     message
                 }),
             })
-
             const data = await chatData.json();
             if (data) {
                 setIsFetching(false)
-                setChat(data.text)
-                setMessageParentId(data.parentMessageId)
+                setChat(data.message.choices[0].message.content)
             }
 
         } catch (e) {
