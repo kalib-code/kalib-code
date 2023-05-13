@@ -1,4 +1,4 @@
-import {BsFillSendFill} from "react-icons/bs";
+import { BsFillSendFill } from "react-icons/bs";
 
 import { TypeAnimation } from 'react-type-animation';
 import Link from "next/link";
@@ -18,7 +18,7 @@ interface Props {
 
 export const Modal = (props: Props) => {
 
-    const {message, isOpen, isFetching, setMessage, onClick, chat, onClickModal} = props;
+    const { message, isOpen, isFetching, setMessage, onClick, chat, onClickModal } = props;
 
     const onChangeToggle = (e: any) => {
         onClickModal()
@@ -57,36 +57,36 @@ export const Modal = (props: Props) => {
     return (
         <>
             <input onChange={onChangeToggle} defaultChecked={isOpen} type="checkbox" id="my-modal-4"
-                   className="modal-toggle"/>
+                className="modal-toggle" />
             <label htmlFor="my-modal-4" className="modal cursor-pointer">
                 <label className="modal-box relative p-5" htmlFor="">
                     <div className="form-control mb-20">
                         <div className="input-group mb-5">
-                            <input type="text" placeholder="Ask me about Karl" className="input input-bordered w-full"
-                                   onChange={(e) => {
-                                       setMessage(e.target.value)
-                                   }}
-                                   onKeyDown={async (event) => {
-                                       if (event.key === 'Enter') {
-                                           await onClick(message)
-                                       }
+                            <input type="text" data-umami-event="Ask Kalib" data-umami-event-question={message} placeholder="Ask me about Karl" className="input input-bordered w-full"
+                                onChange={(e) => {
+                                    setMessage(e.target.value)
+                                }}
+                                onKeyDown={async (event) => {
+                                    if (event.key === 'Enter') {
+                                        await onClick(message)
+                                    }
 
-                                   }}
+                                }}
                             />
 
                             <button className="btn btn-square" onClick={() => onClick(message)
                             }>
-                                <BsFillSendFill/>
+                                <BsFillSendFill />
                             </button>
                         </div>
                         {!isFetching ? <article className="prose-base">
                             <TypeAnimation
-                               sequence={
+                                sequence={
 
-                                [ chat as string , 1000,()=>{console.log('done')}]}
-                               wrapper={"p"}
-                               cursor={false}
-                               className="prose"
+                                    [chat as string, 1000, () => { console.log('done') }]}
+                                wrapper={"p"}
+                                cursor={false}
+                                className="prose"
                             />
                         </article> : 'Loading...'}
                     </div>
@@ -100,6 +100,7 @@ export const Modal = (props: Props) => {
                     {/*</div>*/}
                     <p className="text-center"><Link
                         href="https://drive.google.com/file/d/1nwKypNkc8mRadrACedHsC_JqLJiyRa4T/view?usp=sharing"
+                        data-umami-event="Download Resume"
                         className="link">Download Resume</Link></p>
                 </label>
 

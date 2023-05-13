@@ -13,7 +13,7 @@ export const Header = () => {
                 <div className="flex-none">
                     <ul className="menu menu-horizontal px-1">
                         <li>
-                            <Link href="https://kalib-stacks.medium.com/" className="text-lg font-semibold">
+                            <Link data-umami-event="Click Medium" href="https://kalib-stacks.medium.com/" className="text-lg font-semibold">
                                 Blog
                             </Link>
                         </li>
