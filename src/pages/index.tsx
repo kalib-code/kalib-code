@@ -65,7 +65,7 @@ export default function Home() {
                             <p className="py-6">  As a full-stack developer with a design background, I create custom digital solutions that are
                                 both visually appealing and highly functional. Let&apos;s work together to bring your digital
                                 dreams to life!</p>
-                            <label data-umami-event="Ask Kalib" htmlFor="my-modal-4" className="btn btn-primary"> <span className="text-orange-500">.</span>
+                            <label data-umami-event="Click Ask Kalib" htmlFor="my-modal-4" className="btn btn-primary"> <span className="text-orange-500">.</span>
                                 ask Kalib</label>
                         </div>
                     </div>

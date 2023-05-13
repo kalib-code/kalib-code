@@ -62,7 +62,7 @@ export const Modal = (props: Props) => {
                 <label className="modal-box relative p-5" htmlFor="">
                     <div className="form-control mb-20">
                         <div className="input-group mb-5">
-                            <input type="text" data-umami-event="Ask Kalib" data-umami-event-question={message} placeholder="Ask me about Karl" className="input input-bordered w-full"
+                            <input type="text" data-umami-event="Ask Kalib" data-umami-event-question="askQuestion" placeholder="Ask me about Karl" className="input input-bordered w-full"
                                 onChange={(e) => {
                                     setMessage(e.target.value)
                                 }}
