@@ -52,6 +52,11 @@
       "collaboration_tools": [
         "Jira",
         "Azure"
+      ],
+      "infa as code":[
+        "Pulumi",
+        "SST",
+        "TurboRepo"
       ]
     },
     "certifications": [
@@ -61,9 +66,19 @@
   },
   "experience": [
     {
+      "company": "knose.com.au",
+      "position": "Product Development Engineer",
+      "project": "Insurance application ",
+      "start_date": "MAY 2023",
+      "location": "Makati, Philippines",
+      "description": "My job entails understanding the current application infrastructure, performing increasingly complex product analysis and development tasks, designing solutions to business problems in collaboration with the CTO, developing applications and integrating new or existing APIs, overseeing junior engineers, and creating documentation using best practices and automated documentation applications.",
+      "emoji": "🤖🎥"
+    },
+    {
       "company": "ERNI Betterask.erni/PH",
       "position": "Professional Web Developer (Full-stack)",
       "start_date": "AUG 2021",
+      "end_date": "MAY 2023",
       "location": "Mandaluyong, Philippines",
       "description": "As a full-stack web developer at ERNI, I have been responsible for building and maintaining backend applications for various projects. My focus has been on writing efficient, high-quality code that improves the speed of the applications we develop.",
       "projects": [

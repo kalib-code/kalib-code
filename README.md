@@ -48,13 +48,23 @@ Roxas City, Capiz 5800
 - Jira
 - Azure
 
+### Infra as a Code
+- Pulumi
+- SST
+- TurboRepo
+
 ### Certifications 🏆
 - Lean Sigma Yellow Belt Class 76
 - Growth Driven Design
 
 ## Experience 🚀
+
+### knose.com.au / Product Development Engineer(Senior)
+May 2023 - Present - Makati Philippines
+My job entails understanding the current application infrastructure, performing increasingly complex product analysis and development tasks, designing solutions to business problems in collaboration with the CTO, developing applications and integrating new or existing APIs, overseeing junior engineers, and creating documentation using best practices and automated documentation applications.
+
 ### ERNI Betterask.erni/PH / Professional Web Developer (Full-stack)
-AUG 2021 - Present, Mandaluyong Philippines\
+AUG 2021 - May 2023, Mandaluyong Philippines\
 As a full-stack web developer at ERNI, I have been responsible for building and maintaining backend applications for various projects. My focus has been on writing efficient, high-quality code that improves the speed of the applications we develop.
 
 #### Projects
