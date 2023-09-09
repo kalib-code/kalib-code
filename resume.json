@@ -8,8 +8,8 @@
     "postal_code": "5800"
   },
   "contacts": {
-    "phone": "+63 9951783112",
-    "email": "karl@alibuas.com",
+    "phone": "+63 9946312118",
+    "email": "kalibuas@gmail.com",
     "website": "https://www.alibuas.com/",
     "github": "https://github.com/kalib-code",
     "linkedin": "https://www.linkedin.com/in/kalibuas/",
@@ -68,11 +68,17 @@
     {
       "company": "knose.com.au",
       "position": "Product Development Engineer",
-      "project": "Insurance application ",
+
       "start_date": "MAY 2023",
       "location": "Makati, Philippines",
       "description": "My job entails understanding the current application infrastructure, performing increasingly complex product analysis and development tasks, designing solutions to business problems in collaboration with the CTO, developing applications and integrating new or existing APIs, overseeing junior engineers, and creating documentation using best practices and automated documentation applications.",
-      "emoji": "🤖🎥"
+      "emoji": "🤖🎥",
+      "project":[
+        "Design and Develop Retry logic on the distribution system",
+        "Design and Planning Development Life Cycle Docs",
+        "Design and Develop Automation on Business and Development Sprint",
+        "Design and Development custom Insurance Risk management System"
+      ]
     },
     {
       "company": "ERNI Betterask.erni/PH",
